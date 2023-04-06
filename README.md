@@ -1,1 +1,1 @@
-# vercel-alchemy-nft-explore-template
+# nfts-gallery
